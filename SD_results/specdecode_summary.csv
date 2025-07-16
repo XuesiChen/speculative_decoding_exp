@@ -1,0 +1,8 @@
+speculative_tokens,draft_model,target_model,avg_input_tokens,avg_output_tokens,avg_ttft_sec(s),avg_tbt_sec_per_token(s),avg_total_latency_sec(s)
+2,facebook/opt-125m,facebook/opt-6.7b,17.9,263.2,6.0715823174,1.602e-07,6.0715873241
+4,facebook/opt-125m,facebook/opt-6.7b,17.9,298.5,3.0098329782,1.517e-07,3.0098397255
+8,facebook/opt-125m,facebook/opt-6.7b,17.9,427.5,3.5873301268,3.3e-08,3.5873385906
+16,facebook/opt-125m,facebook/opt-6.7b,17.9,278.5,2.6749006748,6.85e-08,2.6749060631
+32,facebook/opt-125m,facebook/opt-6.7b,17.9,374.6,6.7599552393,9.11e-08,6.7599639654
+64,facebook/opt-125m,facebook/opt-6.7b,17.9,456.1,13.5913695574,1.016e-07,13.5913798809
+128,facebook/opt-125m,facebook/opt-6.7b,17.9,290.9,17.8270719528,9.58e-08,17.8270793676

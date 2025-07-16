@@ -1,0 +1,71 @@
+speculative_tokens,draft_model,target_model,input_tokens,output_tokens,ttft_sec(s),tbt_sec_per_token(s),total_latency_sec(s),prompt
+2,facebook/opt-125m,facebook/opt-6.7b,14,90,31.1127398014,1.32e-08,31.1127409935,Explain the history and future of artificial general intelligence in detail.
+2,facebook/opt-125m,facebook/opt-6.7b,18,512,5.4869542122,1.16e-08,5.4869601727,"Describe the evolution of deep learning models from 2010 to today, including major milestones."
+2,facebook/opt-125m,facebook/opt-6.7b,19,6,0.1080389023,1.2716e-06,0.1080465317,"Write a detailed summary of how neural networks are trained, including optimizers and loss functions."
+2,facebook/opt-125m,facebook/opt-6.7b,20,125,1.6033160686,1.53e-08,1.603317976,"Explain the full pipeline of deploying a large language model in production, from training to inference."
+2,facebook/opt-125m,facebook/opt-6.7b,17,512,5.7012517452,6.5e-09,5.7012550831,Give a comprehensive overview of transformers and how they revolutionized natural language processing.
+2,facebook/opt-125m,facebook/opt-6.7b,16,54,0.6892735958,1.545e-07,0.6892819405,Discuss the ethical implications of using AI in healthcare with examples and mitigation strategies.
+2,facebook/opt-125m,facebook/opt-6.7b,14,512,6.1995995045,9.8e-09,6.1996045113,"Describe how reinforcement learning works, including examples and mathematical formulations."
+2,facebook/opt-125m,facebook/opt-6.7b,21,85,1.2244040966,9.26e-08,1.2244119644,"Write a long essay on the societal impacts of large-scale AI deployment, both positive and negative."
+2,facebook/opt-125m,facebook/opt-6.7b,19,224,3.0292315483,1.7e-08,3.029235363,"Explain how multimodal models work and what challenges they solve, with technical depth."
+2,facebook/opt-125m,facebook/opt-6.7b,21,512,5.5610136986,9.8e-09,5.5610187054,Provide an end-to-end explanation of how search engines rank web pages using machine learning.
+4,facebook/opt-125m,facebook/opt-6.7b,14,18,0.1813218594,9.139e-07,0.1813383102,Explain the history and future of artificial general intelligence in detail.
+4,facebook/opt-125m,facebook/opt-6.7b,18,245,2.9209518433,1.17e-08,2.9209547043,"Describe the evolution of deep learning models from 2010 to today, including major milestones."
+4,facebook/opt-125m,facebook/opt-6.7b,19,512,4.4476983547,1.07e-08,4.4477038383,"Write a detailed summary of how neural networks are trained, including optimizers and loss functions."
+4,facebook/opt-125m,facebook/opt-6.7b,20,512,5.8177206516,1.21e-08,5.8177268505,"Explain the full pipeline of deploying a large language model in production, from training to inference."
+4,facebook/opt-125m,facebook/opt-6.7b,17,512,5.2681009769,2.1e-08,5.2681117058,Give a comprehensive overview of transformers and how they revolutionized natural language processing.
+4,facebook/opt-125m,facebook/opt-6.7b,16,23,0.2010095119,4.146e-07,0.2010190487,Discuss the ethical implications of using AI in healthcare with examples and mitigation strategies.
+4,facebook/opt-125m,facebook/opt-6.7b,14,92,0.8084414005,2.85e-08,0.8084440231,"Describe how reinforcement learning works, including examples and mathematical formulations."
+4,facebook/opt-125m,facebook/opt-6.7b,21,47,0.4895899296,8.62e-08,0.4895939827,"Write a long essay on the societal impacts of large-scale AI deployment, both positive and negative."
+4,facebook/opt-125m,facebook/opt-6.7b,19,512,4.0001659393,6.5e-09,4.0001692772,"Explain how multimodal models work and what challenges they solve, with technical depth."
+4,facebook/opt-125m,facebook/opt-6.7b,21,512,5.9633293152,1.21e-08,5.9633355141,Provide an end-to-end explanation of how search engines rank web pages using machine learning.
+8,facebook/opt-125m,facebook/opt-6.7b,14,512,5.2576453686,3.73e-08,5.2576644421,Explain the history and future of artificial general intelligence in detail.
+8,facebook/opt-125m,facebook/opt-6.7b,18,512,5.511516571,1.72e-08,5.5115253925,"Describe the evolution of deep learning models from 2010 to today, including major milestones."
+8,facebook/opt-125m,facebook/opt-6.7b,19,512,4.4020497799,1.86e-08,4.4020593166,"Write a detailed summary of how neural networks are trained, including optimizers and loss functions."
+8,facebook/opt-125m,facebook/opt-6.7b,20,512,3.6957485676,1.21e-08,3.6957547665,"Explain the full pipeline of deploying a large language model in production, from training to inference."
+8,facebook/opt-125m,facebook/opt-6.7b,17,512,2.343280077,1.35e-08,2.3432869911,Give a comprehensive overview of transformers and how they revolutionized natural language processing.
+8,facebook/opt-125m,facebook/opt-6.7b,16,512,6.0267996788,1.21e-08,6.0268058777,Discuss the ethical implications of using AI in healthcare with examples and mitigation strategies.
+8,facebook/opt-125m,facebook/opt-6.7b,14,512,3.586769104,1.44e-08,3.586776495,"Describe how reinforcement learning works, including examples and mathematical formulations."
+8,facebook/opt-125m,facebook/opt-6.7b,21,71,0.9475483894,1.108e-07,0.9475562572,"Write a long essay on the societal impacts of large-scale AI deployment, both positive and negative."
+8,facebook/opt-125m,facebook/opt-6.7b,19,512,2.9541425705,6.1e-09,2.9541456699,"Explain how multimodal models work and what challenges they solve, with technical depth."
+8,facebook/opt-125m,facebook/opt-6.7b,21,108,1.1478011608,8.83e-08,1.1478106976,Provide an end-to-end explanation of how search engines rank web pages using machine learning.
+16,facebook/opt-125m,facebook/opt-6.7b,14,14,0.168194294,3.917e-07,0.1681997776,Explain the history and future of artificial general intelligence in detail.
+16,facebook/opt-125m,facebook/opt-6.7b,18,185,2.5353019238,1.42e-08,2.5353045464,"Describe the evolution of deep learning models from 2010 to today, including major milestones."
+16,facebook/opt-125m,facebook/opt-6.7b,19,327,1.4706926346,1.6e-08,1.4706978798,"Write a detailed summary of how neural networks are trained, including optimizers and loss functions."
+16,facebook/opt-125m,facebook/opt-6.7b,20,182,1.7436921597,3.01e-08,1.7436976433,"Explain the full pipeline of deploying a large language model in production, from training to inference."
+16,facebook/opt-125m,facebook/opt-6.7b,17,127,1.9833989143,3e-08,1.983402729,Give a comprehensive overview of transformers and how they revolutionized natural language processing.
+16,facebook/opt-125m,facebook/opt-6.7b,16,512,8.011193037,1.02e-08,8.0111982822,Discuss the ethical implications of using AI in healthcare with examples and mitigation strategies.
+16,facebook/opt-125m,facebook/opt-6.7b,14,512,2.8545031548,1.54e-08,2.8545110226,"Describe how reinforcement learning works, including examples and mathematical formulations."
+16,facebook/opt-125m,facebook/opt-6.7b,21,48,0.5944671631,1.54e-07,0.5944745541,"Write a long essay on the societal impacts of large-scale AI deployment, both positive and negative."
+16,facebook/opt-125m,facebook/opt-6.7b,19,366,4.7282752991,8.5e-09,4.7282783985,"Explain how multimodal models work and what challenges they solve, with technical depth."
+16,facebook/opt-125m,facebook/opt-6.7b,21,512,2.659288168,1.49e-08,2.6592957973,Provide an end-to-end explanation of how search engines rank web pages using machine learning.
+32,facebook/opt-125m,facebook/opt-6.7b,14,25,0.416693449,5.15e-07,0.4167063236,Explain the history and future of artificial general intelligence in detail.
+32,facebook/opt-125m,facebook/opt-6.7b,18,512,10.360285759,5.6e-09,10.36028862,"Describe the evolution of deep learning models from 2010 to today, including major milestones."
+32,facebook/opt-125m,facebook/opt-6.7b,19,63,0.8643627167,2.044e-07,0.8643755913,"Write a detailed summary of how neural networks are trained, including optimizers and loss functions."
+32,facebook/opt-125m,facebook/opt-6.7b,20,499,8.4046974182,2.34e-08,8.4047091007,"Explain the full pipeline of deploying a large language model in production, from training to inference."
+32,facebook/opt-125m,facebook/opt-6.7b,17,512,8.3302328587,1.4e-08,8.3302400112,Give a comprehensive overview of transformers and how they revolutionized natural language processing.
+32,facebook/opt-125m,facebook/opt-6.7b,16,512,11.9922392368,1.58e-08,11.9922473431,Discuss the ethical implications of using AI in healthcare with examples and mitigation strategies.
+32,facebook/opt-125m,facebook/opt-6.7b,14,512,7.7015459538,1.54e-08,7.7015538216,"Describe how reinforcement learning works, including examples and mathematical formulations."
+32,facebook/opt-125m,facebook/opt-6.7b,21,87,2.3699800968,8.5e-08,2.3699874878,"Write a long essay on the societal impacts of large-scale AI deployment, both positive and negative."
+32,facebook/opt-125m,facebook/opt-6.7b,19,512,9.7228522301,1.44e-08,9.722859621,"Explain how multimodal models work and what challenges they solve, with technical depth."
+32,facebook/opt-125m,facebook/opt-6.7b,21,512,7.436662674,1.77e-08,7.4366717339,Provide an end-to-end explanation of how search engines rank web pages using machine learning.
+64,facebook/opt-125m,facebook/opt-6.7b,14,23,0.8728523254,8.5e-07,0.8728718758,Explain the history and future of artificial general intelligence in detail.
+64,facebook/opt-125m,facebook/opt-6.7b,18,512,8.0370099545,1.02e-08,8.0370151997,"Describe the evolution of deep learning models from 2010 to today, including major milestones."
+64,facebook/opt-125m,facebook/opt-6.7b,19,512,14.9538834095,1.3e-08,14.9538900852,"Write a detailed summary of how neural networks are trained, including optimizers and loss functions."
+64,facebook/opt-125m,facebook/opt-6.7b,20,512,16.6419475079,2.28e-08,16.6419591904,"Explain the full pipeline of deploying a large language model in production, from training to inference."
+64,facebook/opt-125m,facebook/opt-6.7b,17,442,15.0605700016,2e-08,15.0605788231,Give a comprehensive overview of transformers and how they revolutionized natural language processing.
+64,facebook/opt-125m,facebook/opt-6.7b,16,512,11.1863920689,2.1e-08,11.1864027977,Discuss the ethical implications of using AI in healthcare with examples and mitigation strategies.
+64,facebook/opt-125m,facebook/opt-6.7b,14,512,18.6388719082,2.05e-08,18.6388823986,"Describe how reinforcement learning works, including examples and mathematical formulations."
+64,facebook/opt-125m,facebook/opt-6.7b,21,512,16.0638816357,1.96e-08,16.0638916492,"Write a long essay on the societal impacts of large-scale AI deployment, both positive and negative."
+64,facebook/opt-125m,facebook/opt-6.7b,19,512,16.6881284714,1.96e-08,16.688138485,"Explain how multimodal models work and what challenges they solve, with technical depth."
+64,facebook/opt-125m,facebook/opt-6.7b,21,512,17.7701582909,1.96e-08,17.7701683044,Provide an end-to-end explanation of how search engines rank web pages using machine learning.
+128,facebook/opt-125m,facebook/opt-6.7b,14,34,2.4560573101,4.979e-07,2.4560742378,Explain the history and future of artificial general intelligence in detail.
+128,facebook/opt-125m,facebook/opt-6.7b,18,143,7.9172620773,2e-08,7.9172649384,"Describe the evolution of deep learning models from 2010 to today, including major milestones."
+128,facebook/opt-125m,facebook/opt-6.7b,19,512,34.2167420387,7.5e-09,34.2167458534,"Write a detailed summary of how neural networks are trained, including optimizers and loss functions."
+128,facebook/opt-125m,facebook/opt-6.7b,20,79,6.4195785522,1.147e-07,6.4195876122,"Explain the full pipeline of deploying a large language model in production, from training to inference."
+128,facebook/opt-125m,facebook/opt-6.7b,17,512,29.2438826561,6.5e-09,29.243885994,Give a comprehensive overview of transformers and how they revolutionized natural language processing.
+128,facebook/opt-125m,facebook/opt-6.7b,16,512,31.207034111,2.28e-08,31.2070457935,Discuss the ethical implications of using AI in healthcare with examples and mitigation strategies.
+128,facebook/opt-125m,facebook/opt-6.7b,14,437,28.3413181305,1.96e-08,28.3413267136,"Describe how reinforcement learning works, including examples and mathematical formulations."
+128,facebook/opt-125m,facebook/opt-6.7b,21,31,1.9047420025,2.23e-07,1.9047489166,"Write a long essay on the societal impacts of large-scale AI deployment, both positive and negative."
+128,facebook/opt-125m,facebook/opt-6.7b,19,137,9.5972383022,3.31e-08,9.5972428322,"Explain how multimodal models work and what challenges they solve, with technical depth."
+128,facebook/opt-125m,facebook/opt-6.7b,21,512,26.9668643475,1.26e-08,26.9668707848,Provide an end-to-end explanation of how search engines rank web pages using machine learning.
